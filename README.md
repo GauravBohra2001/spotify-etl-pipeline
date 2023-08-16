@@ -50,3 +50,5 @@ The Spotify ETL Pipeline follows the following flow:
    - AWS Glue crawlers are used to automatically discover and catalog the transformed data.
    - Analytics tables are created in AWS Athena, which allows for easy querying and analysis of the transformed data.
 
+# Final Output
+![Final_ScreenShot](https://github.com/GauravBohra2001/spotify-etl-pipeline/assets/113661738/5de56cd9-4c72-4c0a-a083-14d3dd53fe0f)
